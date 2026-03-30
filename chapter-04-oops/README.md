@@ -6,6 +6,7 @@ This chapter covers Object-Oriented Programming concepts in C++.
 - Classes and Objects
 - Constructors and Destructors
 - Polymorphism
+- Inheritances 
 
 ## Practice Programs:
 - Class and object examples
