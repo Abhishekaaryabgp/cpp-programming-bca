@@ -6,9 +6,8 @@ This folder contains mini-projects developed during BCA to apply C and C++ conce
 - ATM System
 - Calculator Applications
 - Digital Clock
-- Login System
+- Student Record File Handling Projects
 - Number Guessing Game
-- File Handling Projects
 
 ## Purpose:
 - Apply programming concepts in real-world scenarios
